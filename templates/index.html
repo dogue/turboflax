@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Hello TURBOFLAX</title>
+    <link rel="stylesheet" href="/static/css/bootstrap.min.css" />
+    <script src="/static/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/htmx.min.js"></script>
+</head>
+
+<body>
+    <div class="container-lg">
+        <div class="row">
+            <div class="text-center">
+                {{ content }}
+            </div>
+        </div>
+        <div class="row mx-auto w-25">
+            <button class="btn btn-primary col" hx-get="/click" hx-swap="innerHTML">Click me!</button>
+        </div>
+    </div>
+</body>
+
+</html>
