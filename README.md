@@ -4,7 +4,7 @@
 
 TURBOFLAX™️ is a web stack that I threw together on a whim for a tiny internal tool I use at work. I made a meme about it on Twitter and turned that meme into a real thing because why not. This is a template for the stack.
 
-TURBOFLAX®️ combines Turso, Bootstrap, Flask, and Htmx.
+TURBOFLAX®️ combines [Turso](https://turso.tech/), [Bootstrap](https://getbootstrap.com/), [Flask](https://flask.palletsprojects.com/en/2.3.x/), and [Htmx](https://htmx.org/).
 
 ### Installation
 
