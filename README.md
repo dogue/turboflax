@@ -2,7 +2,7 @@
 
 ### What am I looking at?
 
-TURBOFLAX™️ is a web stack that I through together on a whim for a tiny internal tool I use at work. I made a meme about it on Twitter and turned that meme into a real thing because why not. This is a template for the stack.
+TURBOFLAX™️ is a web stack that I threw together on a whim for a tiny internal tool I use at work. I made a meme about it on Twitter and turned that meme into a real thing because why not. This is a template for the stack.
 
 TURBOFLAX®️ combines Turso, Bootstrap, Flask, and Htmx.
 
