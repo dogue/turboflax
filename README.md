@@ -19,6 +19,6 @@ After initialization, run `. .venv/bin/activate` to activate the Python virtual 
 
 ### What next?
 
-From there, you're on your own. All the components are well documented, so I'm sure you can sort out the rest. I believe in you.
+From there, you're on your own. All the components are well documented and established tech, so I'm sure you can sort out the rest. I believe in you.
 
 TURBOFLAX©️ is not an opinionated stack. This repo is just meant to get things set up quickly.
